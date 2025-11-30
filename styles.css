@@ -17,6 +17,7 @@ body {
 .square {
     width: 15px;
     height: 15px;
-    background-color: #222;
+    background-color: #1d1d1d; /* MUST match cypress test */
     transition: background-color 1s ease;
 }
+
